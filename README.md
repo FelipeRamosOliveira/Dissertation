@@ -9,7 +9,8 @@ The present repository follwing filles:
 * The trained GPR predictor (all content is in portuguese)
 * The raw results (in portuguse *Resultado bruto*, all content is also in portuguese)
 
-# _____________________________________________________________________________________________________________________________________
+# -
+
 # Resumo
 ## OTIMIZAÇÃO VIA ALGORITMOS META-HEURÍSTICOS DE PERFIS U ENRIJECIDOS FORMADOS A FRIO SUBMETIDOS À COMPRESSÃO AXIAL E CONSIDERANDO RESTRIÇÕES DE FABRICAÇÃO 
 
