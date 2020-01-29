@@ -1,12 +1,12 @@
 function[Lf,t,L,l_log,E,fy,Dim]=PFFAle()  
-%LOCALIZAR PARÂMETROS NA MATRIZ DE COMBINÇÃO
+%LOCALIZAR PARÃ‚METROS NA MATRIZ DE COMBINÃ‡ÃƒO
 
      Lf=100+rand*(700-100);         %Laguras das bobinas (mm)
      t=0.75+rand*(4-0.75);          %Epessuras (mm)
-     L=750+rand*(4000-750);         %Comprimentos de vão/coluna (mm)
-     l_log=log10(L);                %Log do vão 
+     L=750+rand*(4000-750);         %Comprimentos de vÃ£o/coluna (mm)
+     l_log=log10(L);                %Log do vÃ£o 
      E=179-rand*(213.30-179);       %Modulo de Young (kN/mm)
-     fy=0.209+rand*(0.615-0.209);   %Resistência ao escoamento (N/mm)
+     fy=0.209+rand*(0.615-0.209);   %ResistÃªncia ao escoamento (N/mm)
      q=90;
 
      bw=50+rand*(Lf-50); 
