@@ -1,5 +1,5 @@
 clc,clear all
-%%  1.LER TABELA XLSX COM PERFIS ALEAT”RIOS
+%%  1.LER TABELA XLSX COM PERFIS ALEAT√ìRIOS
     TABELA = readtable('data_frame.xlsx');
     save('TABELA','TABELA')
 
@@ -28,8 +28,8 @@ PY=Tabela_Tratada(:,5);
 PL=Tabela_Tratada(:,6);
 PG=Tabela_Tratada(:,7);
 PD=Tabela_Tratada(:,8);
-%% 4.TREINAR MODELO DE PREDI«√O
-%SÛ utilizar quando o modelo n„o estiver treinado ou for inserido um 
+%% 4.TREINAR MODELO DE PREDI√á√ÉO
+%S√≥ utilizar quando o modelo n√£o estiver treinado ou for inserido um 
 %novo data frame
 %[trainedModel, validationRMSE] = AlgTreino(TABELAv);
 %% 5.AVALIAR MODELO TREINADO
