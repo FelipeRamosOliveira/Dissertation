@@ -1,3 +1,5 @@
+![](https://github.com/FelipeRamosOliveira/Auxiliares/blob/master/Coppe.png)
+
 # Abstract
 ## OPTIMIZATION OF COLD-FORMED STEEL LIPPED CHANNEL COLUMNS WITH MANUFACTURING CONSTRAINTS USING METAHEURISTIC ALGORITHMS
 
